@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: famcation
+---
+testFramework: spock
+sourceLanguage: groovy

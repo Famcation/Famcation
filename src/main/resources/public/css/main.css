@@ -1,0 +1,16 @@
+#navbar.bg-dark {
+    background-color: #1F3541 !important;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    background-color: #9AB9EA;
+}
+
+#home-container, #beer-container {
+    background-color: #fff;
+    height: calc(100% - 56px);
+}
